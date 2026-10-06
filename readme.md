@@ -1,6 +1,6 @@
-# Project Title (Update)
+# HTTP API Server in Rust
 
-Add a description of your project here.
+A basic HTTP server built mostly from Rust's standard library.
 
 ## Instructions for Build and Use
 
@@ -20,22 +20,22 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+- First thing here
+-
+-
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+- [Website Title](Link)
+-
+-
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+- [ ] First thing here
+- [ ]
+- [ ]
