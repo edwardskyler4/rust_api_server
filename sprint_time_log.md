@@ -22,6 +22,19 @@ The expected minimum amount of time each Sprint for each category is as follows:
 | **Date** | **Start Time** | **Category** | **Description** | **Total Minutes** |   
 | 10/05 | 9:00 | MTG | Stand-up and team work | 60 |   
 | 10/05 | 9:00 (pm) | IM | Set up hello-world and local environment | 60 |   
+| 10/06 | 9:00 | TP | Reviewing auth options | 45 |   
+| 10/07 | 9:00 | TP | Setting up auth | 75 |   
+| 10/08 | 9:00 | TP | Finishing auth integration | 45 |   
+| 10/09 | 9:00 | TP | Working in class | 30 |   
+| 10/09 | 9:30 | IM | Working through rust book | 30 |   
+| 10/09 | 11:00 | IM | Working through rust book | 90 |   
+| 10/10 | 11:20 | IM | Writing guessing game | 40 |   
+| 10/10 | 12:00 | IM | Starting API server project | 10 |   
+| 10/10 | 3:20 | IM | Working on API server | 40 |   
+| 10/10 | 9:20 | IM | API server |   |   
+|   |   |   |   |   |   
+|   |   |   |   |   |   
+|   |   |   |   |   |   
 |   |   |   |   |   |   
 |   |   |   |   |   |   
 |   |   |   |   |   |   
